@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5417'
     url: http://www.gutenberg.org/2009/agents/5417
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14224#Samoa-A-Hundred-Years-Ago-And-Long-Before
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
